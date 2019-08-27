@@ -1,4 +1,4 @@
-# Project1
+# Project1 Weather or Not To Drink
 
 ## SUMMARY
 ### Description:
@@ -10,7 +10,7 @@ If our user has a special event as weddings, holidays, dinner parties, this app 
 ### Results: 
 Using the cocktail database, the open weather APIs, and Materialize we were able to create an app that generate drinks based on the weather.
 
- [link To Project](https://peaceawo.github.io/Project1/)
+ [Link To Project](https://peaceawo.github.io/Project1/)
  
  ### Improvement: 
 Given more time, we will improve our app by adding filter options for the user. We will also include bar locations near you where those drink options will be available. Lastly, we will include a date picker where the user filters drinks based on the season ex: the holidays
